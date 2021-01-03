@@ -1,9 +1,9 @@
 {
-  "name": "todo-command-line",
+  "name": "todo-cli",
   "version": "1.0.0",
   "description": "A command line todo App",
   "main": "todo.js",
-  "repository": "https://github.com/udayvunnam/todo-command-line.git",
+  "repository": "https://github.com/udayvunnam/todo-cli.git",
   "author": "Uday Vunnam <uday4vunnam@gmail.com>",
   "license": "MIT",
   "scripts": {
