@@ -1,0 +1,21 @@
+{
+  "name": "todo-command-line",
+  "version": "1.0.0",
+  "description": "A command line todo App",
+  "main": "todo.js",
+  "repository": "https://github.com/udayvunnam/todo-command-line.git",
+  "author": "Uday Vunnam <uday4vunnam@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "todo": "./todo.js"
+  },
+  "dependencies": {
+    "commander": "^6.2.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
